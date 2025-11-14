@@ -264,6 +264,8 @@ void loop() {
 
 <img width="1918" height="884" alt="Screenshot 2025-11-14 121254" src="https://github.com/user-attachments/assets/a7e21d2b-0e50-4757-9ba3-15a132f46d7c" />
 
+## SERIAL MONITOR:
+
 <img width="436" height="219" alt="Screenshot 2025-11-14 121307" src="https://github.com/user-attachments/assets/1d9204e5-87eb-4a8b-a588-d199099a7911" />
 
 # RESULT:
